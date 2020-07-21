@@ -27,3 +27,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
 ## How to check if the App is running Successfully?
+
+If you see the below page then you have successfully deployed the Angular App.
+
+![alt text](https://github.com/27aadesh/Sample-Angular-App-for-CICD/blob/master/screenshots/1.JPG)
